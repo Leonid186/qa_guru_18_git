@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello qa.guru!");
+        System.out.println("Hello qa.guru!");
     }
 
     private static String getMessege() {
